@@ -2,7 +2,6 @@
   "root": "public",
   "clean_urls": false,
   "routes": {
-    "/%PUBLIC_URL%/*": "/public/",
     "/": "index.html"
   },
   "headers": {
